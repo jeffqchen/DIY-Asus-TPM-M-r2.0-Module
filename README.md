@@ -12,7 +12,7 @@ Parts
 SLB9665TT20 TPM Chip:
 https://www.ebay.com/itm/313526673758
 
-2.54 pitch double row right angle pin header:
+2.54mm pitch double row right angle pin header:
 https://www.aliexpress.com/item/32758316130.html
 
 4x 100nF 6.3V 0603 SMD capacitors
