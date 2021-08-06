@@ -19,7 +19,7 @@ https://www.aliexpress.com/item/32979672214.html
 https://www.aliexpress.com/item/32758316130.html
 
 - 4x 100nF 6.3V 0603 SMD capacitors
-- 
+
 - 2x 10K Ohm 0603 SMD resistors
 
 PCB: 
