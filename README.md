@@ -15,6 +15,7 @@ https://www.ebay.com/itm/313526673758
 2.54mm pitch double row right angle pin header:
 2x7 (choose the 2x7 option) 
 https://www.aliexpress.com/item/32979672214.html
+
 2x20 (you can cut it down to 2x7) 
 https://www.aliexpress.com/item/32758316130.html
 
