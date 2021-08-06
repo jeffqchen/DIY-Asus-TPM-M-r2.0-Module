@@ -15,13 +15,12 @@ https://www.ebay.com/itm/313526673758
 - 2.54mm pitch double row right angle pin header:
 2x7 (choose the 2x7 option) 
 https://www.aliexpress.com/item/32979672214.html
-
 2x20 (you can cut it down to 2x7) 
 https://www.aliexpress.com/item/32758316130.html
 
--4x 100nF 6.3V 0603 SMD capacitors
-
--2x 10K Ohm 0603 SMD resistors
+- 4x 100nF 6.3V 0603 SMD capacitors
+- 
+- 2x 10K Ohm 0603 SMD resistors
 
 PCB: 
 https://oshpark.com/shared_projects/pVqwq0NS
