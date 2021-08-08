@@ -28,7 +28,7 @@ Note: You do NOT have to follow the links I used. The specs are pretty laid out 
 
 Assembly
 --------
-You have to know how to solder VERY well. Experience on soldering TSSOP and SMD components is required.
+You have to know how to solder VERY well. Experience in soldering TSSOP and SMD components is required.
 
 Note the pin header should be keyed. You can cut a piece of the compatible pin and stuff it into the hole on the bottom row, the 3rd one from the right.
 
