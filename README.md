@@ -28,6 +28,12 @@ https://oshpark.com/shared_projects/pVqwq0NS
 
 Note: You do NOT have to follow the links I used. The specs are pretty laid out so you can source your own parts if you prefer.
 
+- 3D Printed Shell
+  - Print with the text facing upwards
+  - Suggested layer height: 0.16mm.
+  - Suggested line width: 0.35mm.
+  - Uses two 6mm M2 screw and nut.
+
 Assembly
 --------
 You have to know how to solder VERY well. Experience in soldering TSSOP and SMD components is required.
