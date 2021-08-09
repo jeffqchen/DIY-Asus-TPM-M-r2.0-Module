@@ -10,16 +10,20 @@ There are many variants, so please use this as a reference to create your own.
 Parts
 --------
 - SLB9665TT20 TPM Chip:
+
 https://www.ebay.com/itm/313526673758
 
 - 2 mm pitch double row right angle pin header
+
 Choose the 2x7 option
+
 https://www.aliexpress.com/item/32887332295.html
 
 - 4x 100nF 6.3V 0603 SMD capacitors
 - 2x 10K Ohm 0603 SMD resistors
 
 PCB: 
+
 https://oshpark.com/shared_projects/pVqwq0NS
 
 Note: You do NOT have to follow the links I used. The specs are pretty laid out so you can source your own parts if you prefer.
@@ -40,4 +44,5 @@ Jam it onto your motherboard with power turned OFF (I don't have to teach you th
 Reference
 -------
 SLB9665TT20 Datasheet: 
+
 https://www.infineon.com/dgdl/Infineon-data-sheet-SLB9665_2.0_Rev1.2-DS-v01_02-EN.pdf?fileId=5546d462689a790c016929d1d3054feb
