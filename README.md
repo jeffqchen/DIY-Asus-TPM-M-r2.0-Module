@@ -29,7 +29,7 @@ Parts
 Note: You do NOT have to follow the links I used. The specs are pretty laid out so you can source your own parts if you prefer.
 
 - 3D Printed Shell
-  - Print with the text facing upwards
+  - Print with the outside facing upwards
   - Suggested layer height: 0.16mm.
   - Suggested line width: 0.35mm.
   - Uses two 6mm M2 screw and nut.
