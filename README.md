@@ -22,9 +22,9 @@ Parts
 - 4x 100nF 6.3V 0603 SMD capacitors
 - 2x 10K Ohm 0603 SMD resistors
 
-PCB: 
+- PCB: 
 
-https://oshpark.com/shared_projects/pVqwq0NS
+  https://oshpark.com/shared_projects/pVqwq0NS
 
 Note: You do NOT have to follow the links I used. The specs are pretty laid out so you can source your own parts if you prefer.
 
