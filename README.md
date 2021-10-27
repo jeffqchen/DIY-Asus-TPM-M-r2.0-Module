@@ -1,6 +1,6 @@
 # DIY ASUS TPM-M R2.0 Module
 
-<img src="./Pics/01.jpeg" width="300px" />
+<img src="./Pics/01.jpeg" width="600px" />
 
 It's kinda hard to find those TPM modules that no one knew they needed - UNTIL Windows 11 happened. So here's one in case you need it.
 
