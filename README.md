@@ -52,6 +52,17 @@ Jam it onto your motherboard with power turned OFF (I don't have to teach you th
 
 <img src="./Pics/06.jpeg" width="300px" />
 
+
+-------
+
+## Updating TPM Chip Firmware
+
+The firmware version on the chip might be quite out-dated and requires an update to work properly with Windows. Please refer to the following guides on how to update the firmware on your TPM chip:
+- https://qzhou.dev/updating-a-vulnerable-tpm
+- https://silvenga.com/upgrading-firmware-infineon-tpm/
+
+Note: It is possible that your chips might come with a rare firmware version and no update could be found. You might have to find a different seller and try your luck if that's the case.
+
 --------
 
 ## Reference
