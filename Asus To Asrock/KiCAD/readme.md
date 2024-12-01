@@ -7,5 +7,12 @@ I created this adapter board so that I can use the module I created for Asus mot
 -------
 
 # Parts
+
 - 18-1 pin (2x9) pin header, female, 2.0mm pitched, right angle
 - 14-1 pin (2x7) pin header, male 2.0mm pitched, right angle
+
+-------
+
+# Note
+
+Remember to trim the missing pin on the male pin header for better anti-inverse measure!
