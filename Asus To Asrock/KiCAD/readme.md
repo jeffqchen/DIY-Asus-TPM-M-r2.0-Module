@@ -15,4 +15,6 @@ I created this adapter board so that I can use the module I created for Asus mot
 
 # Note
 
+<img src="https://github.com/user-attachments/assets/5f87cd0f-84ef-4ae3-ae89-7acddc07593d" width=400>
+
 Remember to trim the missing pin on the male pin header for better anti-inverse measure!
