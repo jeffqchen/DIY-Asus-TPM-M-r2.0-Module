@@ -8,6 +8,14 @@ There are many variants, so please use this as a reference to create your own.
 
 --------
 
+## Adapt to Asrock Motherboards
+
+<img src="https://github.com/user-attachments/assets/3a94482a-0534-4f3e-987e-527d202ff485" width=600>
+
+This module can also work on Asrock motherboards if you use [THIS](https://github.com/jeffqchen/DIY-Asus-TPM-M-r2.0-Module/tree/main/Asus%20To%20Asrock/KiCAD) adapter!
+
+--------
+
 ## Parts
 
 SLB9665TT20 TPM Chip:
